@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dinuja Perera....."
+title                    : "Dinuja Perera"
 title_separator          : "-"
 name                     : &name "Dinuja Perera"
 description              : &description "personal description"
