@@ -12,5 +12,5 @@ redirect_from:
 
 I am a Machine Learning Engineer at [CML Insights Inc.](https://www.linkedin.com/company/cml-insight/about/), which provides Causal Machine Learning (CML) algorithms to innovate on-going business processes.
 
-I earned the B.Sc. in Pysical Science from [Faculty of Science](https://science.cmb.ac.lk/), [University of Colombo](https://cmb.ac.lk/), in 2019.
+I earned my B.Sc. in Physical Sciences from [Faculty of Science](https://science.cmb.ac.lk/), [University of Colombo](https://cmb.ac.lk/), in 2019.
 
